@@ -155,7 +155,7 @@ function get_link(n) {
 function set_lastnode(n) {
 /*var d = new Date();
 var t_mil = d.getMilliseconds();*/
-// testattu nopeuksia explorerilla, ei merkitt‰vi‰ eroja
+// testattu nopeuksia explorerilla, ei merkitt√§vi√§ eroja
   if (lastnode==n) return; 
 /*  deactivate(lastnode)
   lastnode=n;
